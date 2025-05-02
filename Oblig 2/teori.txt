@@ -1,0 +1,3 @@
+1b) Først og fremst gjør den klassen mer dynamisk, dette er etter som klassen nå kan være mottagelig for andre filer med andre filmer. Klassen kan også brukes uten å lese inn filen og det vil da bruke unødvendig kapasitet å lese den inn hver gang. 
+
+1c) Det kunne vært naturlig å bruke datatypen float. Etter som vi kun bruker årstallet ved til å representere når filmen er fra, kunne vi ved hjelp av desimaltall gitt et mer nøyaktig svar. 2023.5 ville f.eks vært i midten av 2023 osv. 
